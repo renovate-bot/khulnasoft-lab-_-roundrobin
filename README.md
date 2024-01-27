@@ -1,10 +1,10 @@
 # roundrobin
 
-[![License](https://img.shields.io/github/license/khulnasoft-labs/roundrobin)](LICENSE.md)
-![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-labs/roundrobin?filename=go.mod)
-[![Release](https://img.shields.io/github/release/khulnasoft-labs/roundrobin)](https://github.com/khulnasoft-labs/roundrobin/releases/)
-[![Checks](https://github.com/khulnasoft-labs/roundrobin/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-labs/roundrobin/actions/workflows/build-test.yml)
-[![GoDoc](https://pkg.go.dev/badge/khulnasoft-labs/roundrobin)](https://pkg.go.dev/github.com/khulnasoft-labs/roundrobin)
+[![License](https://img.shields.io/github/license/khulnasoft-lab/roundrobin)](LICENSE.md)
+![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-lab/roundrobin?filename=go.mod)
+[![Release](https://img.shields.io/github/release/khulnasoft-lab/roundrobin)](https://github.com/khulnasoft-lab/roundrobin/releases/)
+[![Checks](https://github.com/khulnasoft-lab/roundrobin/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-lab/roundrobin/actions/workflows/build-test.yml)
+[![GoDoc](https://pkg.go.dev/badge/khulnasoft-lab/roundrobin)](https://pkg.go.dev/github.com/khulnasoft-lab/roundrobin)
 
 
 
@@ -27,7 +27,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/khulnasoft-labs/roundrobin"
+	"github.com/khulnasoft-lab/roundrobin"
 )
 
 func main() {
@@ -70,7 +70,7 @@ func main() {
 }
 
 ```
-For more details refer  [GoDoc](https://pkg.go.dev/github.com/khulnasoft-labs/roundrobin) .
+For more details refer  [GoDoc](https://pkg.go.dev/github.com/khulnasoft-lab/roundrobin) .
 
 ## Acknowledgement
 

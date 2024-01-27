@@ -1,7 +1,7 @@
 package transport
 
 import (
-	"github.com/khulnasoft-labs/roundrobin"
+	"github.com/khulnasoft-lab/roundrobin"
 )
 
 // RoundTransport iterates proxies using RoundRobin

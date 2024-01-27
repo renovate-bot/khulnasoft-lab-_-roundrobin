@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/roundrobin
+module github.com/khulnasoft-lab/roundrobin
 
 go 1.14
 

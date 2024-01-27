@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/khulnasoft-labs/roundrobin"
+	"github.com/khulnasoft-lab/roundrobin"
 )
 
 func main() {
